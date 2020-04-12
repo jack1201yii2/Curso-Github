@@ -1,0 +1,6 @@
+npm install react-router-dom --save
+
+si mas adelante hay actualizaciones, para no romper nada,
+ir a pakague.json del proyecto y quitar el circunflejo a "react-router-dom": "^5.1.2",
+Bracket​Highlighter
+ Babel
